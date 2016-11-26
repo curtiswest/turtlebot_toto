@@ -1,4 +1,3 @@
-
 Copyright (c) 2016, Curtis West
 All rights reserved.
 
